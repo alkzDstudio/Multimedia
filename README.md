@@ -11,13 +11,13 @@ All tasks of paragraph 1.4 of the manuals: multimedia_video.pdf
  b) Increase frame rate
 
  2) Image resizing
- 2a) Video fragment
- 2b) Contour dimming
- 2c) Image changes by 2 times (bilinear interpolation)
- 2d) Text stream on frame
+ 2.1) Video fragment
+ 2.2) Contour dimming
+ 2.3) Image changes by 2 times (bilinear interpolation)
+ 2.4) Text stream on frame
 
  3) Merge two files
- 3a) Display of two files vertically
- 3b) Display of two files horizontal
- 3c) Gradient two video files
- 3d) Video file in video file
+ 3.1) Display of two files vertically
+ 3.2) Display of two files horizontal
+ 3.3) Gradient two video files
+ 3.4) Video file in video file
