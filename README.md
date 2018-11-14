@@ -22,5 +22,6 @@ All tasks of paragraph 1.4 of the manuals: multimedia_video.pdf
   
     a) Display of two files vertically
     b) Display of two files horizontal
-    c) Gradient two video files
-    d) Video file in video file
+    c) 25 frame
+    d) Gradient two video files
+    e) Video file in video file
