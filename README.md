@@ -11,6 +11,7 @@ All tasks of paragraph 1.4 of the manuals: multimedia_video.pdf
  b) Increase frame rate
 
  2) Image resizing
+ 
  2.1) Video fragment
  2.2) Contour dimming
  2.3) Image changes by 2 times (bilinear interpolation)
