@@ -8,9 +8,9 @@ All tasks of paragraph 1.4 of the manuals: multimedia_video.pdf
 1.4.2
   1) Frame rate changes
  
-   a) Reduce Frame Rate
+    a) Reduce Frame Rate
    
-   b) Increase frame rate
+    b) Increase frame rate
 
  2) Image resizing
 
