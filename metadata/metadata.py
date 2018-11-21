@@ -3,7 +3,7 @@ import time
 from time import gmtime, strftime
 
   
-org = cv2.VideoCapture("LR1_1.avi") 
+org = cv2.VideoCapture("../LR1_1.avi") 
 
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
 out = cv2.VideoWriter('metadata.avi',fourcc,int(org.get(5)),(int(org.get(3)),int(org.get(4))))
