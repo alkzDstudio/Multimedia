@@ -25,3 +25,7 @@ All tasks of paragraph 1.4 of the manuals: multimedia_video.pdf
     c) 25 frame
     d) Gradient two video files
     e) Video file in video file
+2.2
+  The study of the motion compensation algorithm and 
+  the entropy estimation of the compressed flow for the motion compensation vectors.
+  For searching, a full search in a given radius is used. The resulting file is generated using delta frames.
